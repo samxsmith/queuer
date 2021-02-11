@@ -1,7 +1,7 @@
 # Queuer
 
 
-### Requires
+### Requires
 - Go
 
 ### Install
